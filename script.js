@@ -1,4 +1,3 @@
-alert("Greetings user! My name is Magican Red. Where are you from");
-result = prompt(title, default);
-document.write("Hello");
-document.write('<div>I am from Ukraine! Where are YOU from?<div>');
+alert("Mysterious man: Greetings user! My name is Magican Red. Where are you from");
+var city = prompt('Where are you from?', 0)
+alert('You: Hi! I am from ' + city)
